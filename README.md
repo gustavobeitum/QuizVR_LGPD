@@ -1,7 +1,7 @@
 # QuizVR - Quiz LGPD  
 
 ## 📌 Sobre o Projeto  
-O **QuizVR_Direito** é um projeto em **Realidade Virtual** desenvolvido em **Unity 6 com C#**, apresentado no **II Fórum de Tecnologia e Direito do Vale**.  
+O **QuizVR_LGPD** é um projeto em **Realidade Virtual** desenvolvido em **Unity 6 com C#**, apresentado no **II Fórum de Tecnologia e Direito do Vale**.  
 O objetivo foi demonstrar como a realidade virtual pode ser aplicada em **educação e treinamentos**, trazendo uma experiência interativa sobre **LGPD (Lei Geral de Proteção de Dados)** para estudantes e profissionais de Direito e Tecnologia.  
 
 ## 🎮 Funcionalidades  
